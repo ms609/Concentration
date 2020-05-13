@@ -5,7 +5,7 @@ on:
   
 jobs:
   deploy:
-    # The type of runner that the job will run on
+    name: Deploy to GH pages
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
@@ -23,12 +23,6 @@ jobs:
     - uses: docker://pandoc/latex:2.9
       with:
         args: --output=output/concentration.pdf ${{ env.FILELIST }}
-     
-    - name: Upload artifact     
-      uses: actions/upload-artifact@master
-      with:
-        name: output
-        path: output
     
     - name: to gh-pages
       uses: s0/git-publish-subdir-action@master
@@ -37,3 +31,9 @@ jobs:
         BRANCH: gh-pages
         FODLER: output
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Upload artifact     
+      uses: actions/upload-artifact@master
+      with:
+        name: output
+        path: output
