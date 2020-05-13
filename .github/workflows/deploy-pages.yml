@@ -8,19 +8,32 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout
+      uses: actions/checkout@v2
+ 
     - run: |
-        mkdir output
-    - uses: docker://pandoc/core:2.9
+        mkdir -p output
+    
+    - name: PanDoc rendering
+      uses: docker://pandoc/core:2.9
       with:
         args: --standalone --output=output/concentration.html md/concentration.md
     - run: |
         echo "::set-env name=FILELIST::$(printf '"%s" ' *.md)"
     - uses: docker://pandoc/latex:2.9
       with:
-        args: --output=output/result.pdf ${{ env.FILELIST }}
-        
-    - uses: actions/upload-artifact@master
+        args: --output=output/concentration.pdf ${{ env.FILELIST }}
+     
+    - name: Upload artifact     
+      uses: actions/upload-artifact@master
       with:
         name: output
         path: output
+    
+    - name: to gh-pages
+      uses: s0/git-publish-subdir-action@master
+      env:
+        REPO: self
+        BRANCH: gh-pages
+        FODLER: output
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
