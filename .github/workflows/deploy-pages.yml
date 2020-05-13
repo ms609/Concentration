@@ -8,24 +8,14 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v2
+    - uses: actions/checkout@v2
+    - run: |
+        mkdir pdf
+        echo "::set-env name=FILELIST::$(printf '"%s" ' *.ms)"
+    - uses: docker://pandoc/core:2.9
       with:
-        persist-credentials: false
-
-    - name: Compile PDFs
-    - uses: mkrakowitzer/actions-makepdfs@master
-      if: github.ref == 'refs/heads/master'
-    - uses: actions/upload-artifact@v1
+        args: --output=output/result.pdf ${{ env.FILELIST }}
+    - uses: actions/upload-artifact@master
       with:
-        name: platform-architecture-docs
-        markdown_dir: md
+        name: output
         path: pdf
-
-    - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@3.4.9
-      with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: .  # The folder the action should deploy.
-      
