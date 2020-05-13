@@ -12,7 +12,7 @@ jobs:
     - run: |
         mkdir pdf
         echo "::set-env name=FILELIST::$(printf '"%s" ' *.md)"
-    - uses: docker://pandoc/core:2.9
+    - uses: docker://pandoc/latex:2.9
       with:
         args: --output=output/result.pdf ${{ env.FILELIST }}
     - uses: actions/upload-artifact@master
