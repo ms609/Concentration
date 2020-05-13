@@ -58,15 +58,39 @@ and clicked on the red dot.  A menu popped up.
 ![Stack overflow review queue](https://github.com/ms609/concentration/raw/master/img/RedDotMenu.png "More red dots!")
 
 This menu contained more red dots!
+
 I had no idea what "First Posts" or "Triage" meant.
+
 Certainly they were not going to help me to get the information I needed.
+
 But there were red dots.  My attention was needed!  How could I possibly refuse?
+
+### Purpose in browsing
+
+When I am concentrating, I always have a specific reason for visiting a website.
+Once I've accomplished by purpose, I close the site.
+
+However, websites are often designed to divert you from the task that you intended 
+to perform.  Sometimes -- as above -- this leaves you getting sidetracked from 
+a task that you were concentrating on.
+
+I suspect that it is helpful to adhere to a 'purposeful browsing' philosophy even
+when concentration is not important.  Sometimes this means finding ways to avoid
+the addiction-forming elements of websites.  To avoid the 'news feed' element of
+Facebook, I set a bookmark to the messages page.  Usually my reason for visiting 
+Facebook is to read messages; on the occasion that I am enthusiastic to see what
+photographs a friend has recently taken of their dinner, I can search for their 
+profile from the message page without being bombarded with opportunities to
+peck at red dots.
+
 
 ### uBlock
 
+To complement this approach,
 I use a browser extension called [uBlock Origin](https://github.com/gorhill/uBlock/)
 to block website components that target my attention.  
-The plugin will silently remove selected elements from webpages, so you never see them.
+The plugin will silently remove selected elements from webpages,
+as if they never existed.
 
 ![uBlock](https://github.com/ms609/concentration/raw/master/img/uBlock.png "uBlock interface")
 
@@ -75,7 +99,6 @@ The plugin will silently remove selected elements from webpages, so you never se
 ![uBlock red dot zapped](https://github.com/ms609/concentration/raw/master/img/WithoutRedDot.png "It's gone.")
 
 As a convenient side effect, it also removes intrusive advertising from web pages.
-
 
 
 ### E-mail
