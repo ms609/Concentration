@@ -11,7 +11,6 @@ jobs:
     - uses: actions/checkout@v2
     - run: |
         mkdir output
-        mkdir pdf
     - uses: docker://pandoc/core:2.9
       with:
         args: --standalone --output=output/concentration.html md/concentration.md
@@ -24,4 +23,4 @@ jobs:
     - uses: actions/upload-artifact@master
       with:
         name: output
-        path: pdf
+        path: output
