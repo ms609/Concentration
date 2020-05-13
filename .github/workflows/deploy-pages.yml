@@ -15,6 +15,10 @@ jobs:
     - uses: docker://pandoc/latex:2.9
       with:
         args: --output=output/result.pdf ${{ env.FILELIST }}
+    - uses: docker://pandoc/core:2.9
+      with:
+        args: --standalone --output=concentration.html md/concentration.md
+        
     - uses: actions/upload-artifact@master
       with:
         name: output
