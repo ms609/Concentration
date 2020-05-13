@@ -21,7 +21,7 @@ The same goes for time.
 I use [Toggl](https://www.toggl.com) to track each minute of my working day. 
 Toggl is a simple program that lets you mark with a click each time you switch from
 one task to another.  
-![Toggl interface](https://github.com/ms609/concentration/raw/master/img/toggl.png "Toggl interface")
+![Toggl interface](https://github.com/ms609/concentration/raw/master/img/Toggl.png "Toggl interface")
 
 
 When I decide that a task merits an hour of my time, it's now easy to see when 
