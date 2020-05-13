@@ -11,7 +11,7 @@ jobs:
     - uses: actions/checkout@v2
     - run: |
         mkdir pdf
-        echo "::set-env name=FILELIST::$(printf '"%s" ' *.ms)"
+        echo "::set-env name=FILELIST::$(printf '"%s" ' *.md)"
     - uses: docker://pandoc/core:2.9
       with:
         args: --output=output/result.pdf ${{ env.FILELIST }}
