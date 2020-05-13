@@ -2,15 +2,11 @@
 
 Do you ever find yourself struggling to concentrate?
 
-Perhaps it's not surprising if you do: someone is being paid, right now, 
-to divert your attention from the task that you are trying to conduct.
+Concentration is a learnable skill: with the right approach, 
+you can shut out distraction and train yourself to focus.
 
-The good news is that concentration is a learnable skill: with the right
-approach, you can shut out distraction and train yourself to focus.
-
-This page outlines approaches that have helped me to master the skill of concentration.
-They might not all work for you, but why not give them a try: hopefully they will
-give you ideas of how you can work more effectively -- buying you time to rest without guilt.
+This page outlines approaches that have helped me to develop the skill of concentration.
+Hopefully they will help you to reflect on how you can work more effectively.
 
 
 ## Intentional time management
@@ -39,9 +35,48 @@ procrastinating because the next task is difficult. You can do it!".
 
 ## Interruptions
 
-- fire alarm
+Internet firms want to sell your attention to advertisers. 
 
-### uBlock : Notification zits
+I half remember an experiment performed on pigeons who had been conditioned to
+peck at a red light to obtain food.  Like Pavlov's dogs drooling at a bell,
+the light, once seen, triggered an irresistable peck reflex.
+When the experimenters replaced the food with a painful electric shock,
+the pigeons couldn't overcome their peck reflex.
+What they could do -- if they were quick -- was turn around so they could
+no longer see the red light.  With the light out of sight, their urge to peck
+waned, and they saved themselves a shock.
+
+I recently went to a website that I often visit for information.
+On this occasion, there was a little red dot next to one of the icons in the toolbar.
+
+![Stack overflow buttons](https://github.com/ms609/concentration/raw/master/img/RedDot.png "A little red dot")
+
+I'd never noticed the icon before -- perhaps it had been there for years.  But now it
+had a red dot next to it.  Obviously, I stopped looking for the information that I needed,
+and clicked on the red dot.  A menu popped up.
+
+![Stack overflow review queue](https://github.com/ms609/concentration/raw/master/img/RedDotMenu.png "More red dots!")
+
+This menu contained more red dots!
+I had no idea what "First Posts" or "Triage" meant.
+Certainly they were not going to help me to get the information I needed.
+But there were red dots.  My attention was needed!  How could I possibly refuse?
+
+### uBlock
+
+I use a browser extension called [uBlock Origin](https://github.com/gorhill/uBlock/)
+to block website components that target my attention.  
+The plugin will silently remove selected elements from webpages, so you never see them.
+
+![uBlock](https://github.com/ms609/concentration/raw/master/img/uBlock.png "uBlock interface")
+
+![uBlock red dot zapper](https://github.com/ms609/concentration/raw/master/img/NoMoreRedDot.png "No more red dots!")
+
+![uBlock red dot zapped](https://github.com/ms609/concentration/raw/master/img/WithoutRedDot.png "It's gone.")
+
+As a convenient side effect, it also removes intrusive advertising from web pages.
+
+
 
 ### E-mail
 
