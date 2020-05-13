@@ -10,8 +10,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - run: |
-      mkdir output
-      mkdir pdf
+        mkdir output
+        mkdir pdf
     - uses: docker://pandoc/core:2.9
       with:
         args: --standalone --output=output/concentration.html md/concentration.md
