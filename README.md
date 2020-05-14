@@ -11,7 +11,7 @@ Hopefully they will help you to reflect on how you can work more effectively.
 
 ## Intentional time management
 
-To take control of your money, it's necessary to understand where your money is going.
+To take control of your finances, it's necessary to understand where you spend your money.
 The same goes for time.
 
 I use [Toggl](https://www.toggl.com) to track each minute of my working day. 
@@ -20,15 +20,15 @@ one task to another.
 ![Toggl interface](https://github.com/ms609/concentration/raw/master/img/Toggl.png "Toggl interface")
 
 
-When I decide that a task merits an hour of my time, it's now easy to see when 
-I've used this time -- allowing me to stop when I've used up my time without 
-feeling guilty.  And when I've worked my hours for the week, I can go home and 
+This lets me decide that a task merits X hours of my time, and to stop when 
+I've used the allotted hours without feeling guilty.  
+And when I've worked my hours for the week, I can go home and 
 enjoy a restful weekend without feeling any need to 'keep up' with work.
 
-A meritious and unexpeected side effect came as a result of stopping the timer
-each time I stopped to check the news or my e-mail.  These interruptions
+As a meritious and unexpected side effect of having to stop the timer
+each time I checked the news or my e-mail, I noticed that such interruptions
 were more frequent than I would have estimated -- and what is more, occurred
-subconsciously.  Having to decide to stop the timer let me stop and ask whether
+subconsciously.  Having to decide to stop the timer allowed me to evaluate whether
 I really needed to check the news.  The answer to this question usually turns out to be
 either "No: you need a proper break, go and make a cup of tea", or "No: you are
 procrastinating because the next task is difficult. You can do it!".
@@ -63,22 +63,24 @@ I had no idea what "First Posts" or "Triage" meant.
 
 Certainly they were not going to help me to get the information I needed.
 
-But there were red dots.  My attention was needed!  How could I possibly refuse?
+But they were accompanied by red dots.
+My attention was needed!  How could I possibly refuse?
 
 ### Purpose in browsing
 
-When I am concentrating, I always have a specific reason for visiting a website.
+When I am concentrating well, I always have a specific reason for visiting a website.
 Once I've accomplished by purpose, I close the site.
 
 However, websites are often designed to divert you from the task that you intended 
-to perform.  Sometimes -- as above -- this leaves you getting sidetracked from 
+to perform.  Sometimes -- as above -- this leads to getting sidetracked from 
 a task that you were concentrating on.
 
 I suspect that it is helpful to adhere to a 'purposeful browsing' philosophy even
-when concentration is not important.  Sometimes this means finding ways to avoid
-the addiction-forming elements of websites.  To avoid the 'news feed' element of
-Facebook, I set a bookmark to the messages page.  Usually my reason for visiting 
-Facebook is to read messages; on the occasion that I am enthusiastic to see what
+when not prioritizing concentration.  Sometimes this means finding ways to avoid
+the addiction-forming elements of websites.  Rather than encounter Facebook's 
+'news feed', I always navigate directly to the messages page.  
+Usually my reason for visiting Facebook is to read messages; 
+on the occasion that I am enthusiastic to see what
 photographs a friend has recently taken of their dinner, I can search for their 
 profile from the message page without being bombarded with opportunities to
 peck at red dots.
@@ -94,14 +96,20 @@ as if they never existed.
 
 ![uBlock](https://github.com/ms609/concentration/raw/master/img/uBlock.png "uBlock interface")
 
+A little zapping later, I have never been bothered by this particular red dot again:s
+
 ![uBlock red dot zapper](https://github.com/ms609/concentration/raw/master/img/NoMoreRedDot.png "No more red dots!")
 
 ![uBlock red dot zapped](https://github.com/ms609/concentration/raw/master/img/WithoutRedDot.png "It's gone.")
 
-As a convenient side effect, it also removes intrusive advertising from web pages.
+As a convenient side effect, uBlock also removes intrusive advertising from web pages.
 
 
 ### E-mail
+
+- List of ppl needing 3h response time. Phone no.
+- Mark all as read
+- Wait 24h before responding.  (Extreme: Auto-snooze for 24h)
 
 
 ## Deep work
