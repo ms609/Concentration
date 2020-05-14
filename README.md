@@ -96,7 +96,7 @@ as if they never existed.
 
 ![uBlock](https://github.com/ms609/concentration/raw/master/img/uBlock.png "uBlock interface")
 
-A little zapping later, I have never been bothered by this particular red dot again:s
+A little zapping later, I have never been bothered by this particular red dot again:
 
 ![uBlock red dot zapper](https://github.com/ms609/concentration/raw/master/img/NoMoreRedDot.png "No more red dots!")
 
@@ -106,6 +106,22 @@ As a convenient side effect, uBlock also removes intrusive advertising from web 
 
 
 ### E-mail
+
+Perhaps you are thinking of a website where you _need_ to be notified the second that 
+something happens?  An example that might spring to mind is your e-mail inbox.
+
+By default, my e-mail provider marks unread messages in bold,
+highlights their background, lists the number of unread messages in the page title,
+and will even offer to flash up an intrusive notification each time a message arrives.
+
+This product design is based on the premise that every e-mail that arrives is more 
+important than what you are currently doing.  If you wish to concentrate, then this
+state of regular interruption is undesirable: a different approach is necessary.
+
+Rather than seeing e-mail as a constant chatter, always clamouring for my attention, 
+I set aside blocks of time -- one in the morning, one in the afternoon -- for responding
+to e-mail.  I don't open my e-mail client except at these times.  (Browser extensions
+make it possible to deny yourself access to certain sites: self-control is a finite resource.)
 
 - List of ppl needing 3h response time. Phone no.
 - Mark all as read
