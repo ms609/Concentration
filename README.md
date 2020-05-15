@@ -138,10 +138,20 @@ efficient: instead of exchanging a dozen 'urgent' messages to arrange a meeting,
 I now write "Can we meet in room 7 at 14:30 on Tuesday? If not, could you suggest 
 two or three times on Tues afternoon or Weds morning that would work for you?"
 
-- (Extreme: Auto-snooze for 24h)
-
-- Mark all as read
-
+The other way that that e-mail exerts a hold on concentration is by giving a feeling 
+of work undone.  Most e-mail clients distinguish between "read" and "unread" e-mails.
+I have configured mine to mark all incoming e-mails as "read".  For me, the important
+distinction is whether an e-mail needs action from me, or not.  
+When I log on to my e-mails, I first triage every message in my inbox.  If it doesn't
+require action, I archive it immediately -- I can always search for it later if it
+contains important information.  If I can't, or choose not to, act on the message 
+immediately, I decide when I will next need to take action -- perhaps to chase up 
+a response, or to forward information that I don't yet have -- and use the 'snooze'
+function (implemented in Gmail and Outlook) to remove the message from my inbox 
+until the appointed time.  This done, I can act on any remaining e-mails, leaving
+an empty inbox.  Any I really can't stomach get snoozed until later.  
+This way, when I log off, I no longer have that nagging feeling that my 
+e-mails require further attention.
 
 ## Deep work
 
