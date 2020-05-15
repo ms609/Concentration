@@ -123,9 +123,24 @@ I set aside blocks of time -- one in the morning, one in the afternoon -- for re
 to e-mail.  I don't open my e-mail client except at these times.  (Browser extensions
 make it possible to deny yourself access to certain sites: self-control is a finite resource.)
 
-- List of ppl needing 3h response time. Phone no.
+But what if this means I miss an urgent e-mail, your subconscious may yell.  
+I found it helpful to make a list of people who may require a response within three 
+hours, and to tell these people to telephone me when they had an urgent enquiry.
+
+The instinct that e-mail requires immediate action is deeply rooted.  I have tried
+a few experiments to train out this feeling of stressful hurry.  One approach that
+helped was to configure my e-mail client to delay the arrival of e-mails in my 
+inbox by half an hour.  Another is to have a default policy of waiting 24 hours 
+before replying to an e-mail: the occasional exception is necessary, but I found
+instructive the number of 'urgent' messages that, the next morning, had resolved
+themselves and required no reply.  This approach also made my e-mail workflow more
+efficient: instead of exchanging a dozen 'urgent' messages to arrange a meeting,
+I now write "Can we meet in room 7 at 14:30 on Tuesday? If not, could you suggest 
+two or three times on Tues afternoon or Weds morning that would work for you?"
+
+- (Extreme: Auto-snooze for 24h)
+
 - Mark all as read
-- Wait 24h before responding.  (Extreme: Auto-snooze for 24h)
 
 
 ## Deep work
