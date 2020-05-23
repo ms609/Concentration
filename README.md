@@ -15,8 +15,9 @@ To take control of your finances, it's necessary to understand where you spend y
 The same goes for time.
 
 I use [Toggl](https://www.toggl.com) to track each minute of my working day. 
-Toggl is a simple program that lets you mark with a click each time you switch from
+Toggl is a simple program that lets you mark with a click when you switch from
 one task to another.  
+
 ![Toggl interface](https://github.com/ms609/concentration/raw/master/img/Toggl.png "Toggl interface")
 
 
