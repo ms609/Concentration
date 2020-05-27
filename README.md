@@ -126,7 +126,8 @@ make it possible to deny yourself access to certain sites: self-control is a fin
 
 But what if this means I miss an urgent e-mail, your subconscious may yell.  
 I found it helpful to make a list of people who may require a response within three 
-hours, and to tell these people to telephone me when they had an urgent enquiry.
+hours, and to ask these people to telephone me when they had an urgent enquiry.
+(They have never needed to call.)
 
 The instinct that e-mail requires immediate action is deeply rooted.  I have tried
 a few experiments to train out this feeling of stressful hurry.  One approach that
@@ -158,6 +159,6 @@ e-mails require further attention.
 
 [Study Hacks](https://www.calnewport.com/blog/2009/11/20/a-study-hacks-primer/)
 
-## Pomodoro
+## Pomodoro technique
 
 [Pomodoro technique](https://francescocirillo.com/pages/pomodoro-technique)
