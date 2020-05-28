@@ -43,7 +43,7 @@ for details -- is to set a kitchen timer for 25 minutes.
 This 25-minute block is devoted to a single task.  When the timer rings, you make a 
 tally mark against the task on a piece of paper that records your progress through the day,
 and take a well-earned five minute break before commencing the next pomodoro, or half
-an hour every four pomodoros.
+an hour every four pomodori.
 **However**, any interruption or deviation from the task causes progress against that 
 pomodoro to be lost.
 
@@ -180,4 +180,8 @@ e-mails require further attention.
 
 ## Deep work
 
+Most of the thoughts developed above have their origins in Cal Newport's 
 [Study Hacks](https://www.calnewport.com/blog/2009/11/20/a-study-hacks-primer/)
+blog, which contains many thoughts on how to concentrate well, work deeply, and 
+produce great work; I recommend it as a resource for further ideas to make better
+and more fulfilling use of your time.
