@@ -8,8 +8,8 @@ Hopefully they will help you to spy opportunities to work more effectively.
 
 ## Intentional time management
 
-Time is a finite resource, but I don't always think of it as such.  
-I've found it helpful to keep a detailed account of my time -- just as, to be in control of my
+Time is a finite resource, but I don't always think of it as such.
+I've found it helps to keep a detailed account of my time -- just as, to be in control of my
 finances, it's necessary to understand where I spend my money.
 
 [Toggl](https://www.toggl.com) makes it easy for me to track each minute of my working day. 
@@ -38,7 +38,8 @@ A more fine-grained (and less digital) approach to allocating time is the
 I find this helpful when I have an interminable task on my plate in which progress 
 is slow and intangible -- a recipe for procrastination!
 
-The basic idea -- see the link or [book](https://francescocirillo.com/pages/pomodoro-technique)
+The basic idea -- see [Wikipedia](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+or [the book](https://francescocirillo.com/pages/pomodoro-technique)
 for details -- is to set a kitchen timer for 25 minutes.
 This 25-minute block is devoted to a single task.  When the timer rings, you make a 
 tally mark against the task on a piece of paper that records your progress through the day,
@@ -51,8 +52,8 @@ The tick marks are the essential part -- they give a positive reinforcement to t
 difficult task of surviving 25 minutes intact, and give an opportunity to appraise a day --
 where did the time go, and can you beat yesterday's score?
 
-This is more difficult than it might sound -- on my first day with the technique,
-I accumulated four ticks.  But over a few weeks I made my way up to a full work day of 12-15.
+This is more difficult than it might sound -- on my first full day with the technique,
+I accumulated just four ticks.  But over a few weeks I made my way up to a full work day of 12--15.
 In my view, this process made a profound and, ten years on, persistent improvement on my 
 ability to concentrate -- both in developing my skill at concentration, and spurring me to
 make changes to my working practice that minimised the pressing urge to get distracted after 22 minutes!
@@ -102,7 +103,7 @@ a task that you were concentrating on.
 I suspect that it is helpful to adhere to a 'purposeful browsing' philosophy even
 when not prioritizing concentration.  Sometimes this means finding ways to avoid
 the addiction-forming elements of websites.  Rather than encounter Facebook's 
-'news feed', I always navigate directly to the messages page.  
+'news feed', I always navigate directly to the messages page.
 Usually my reason for visiting Facebook is to read messages; 
 on the occasion that I am enthusiastic to see what
 photographs a friend has recently taken of their dinner, I can search for their 
@@ -120,11 +121,11 @@ as if they never existed.
 
 ![uBlock](https://github.com/ms609/concentration/raw/master/img/uBlock.png "uBlock interface")
 
-A little zapping later, I have never been bothered by this particular red dot again:
+A little zapping later, and I have never been bothered by this particular red dot again:
 
 ![uBlock red dot zapper](https://github.com/ms609/concentration/raw/master/img/NoMoreRedDot.png "No more red dots!")
 
-![uBlock red dot zapped](https://github.com/ms609/concentratio  n/raw/master/img/WithoutRedDot.png "It's gone.")
+![uBlock red dot zapped](https://github.com/ms609/concentration/raw/master/img/WithoutRedDot.png "It's gone.")
 
 As a convenient side effect, uBlock also removes intrusive advertising from web pages.
 
@@ -137,20 +138,20 @@ something happens?  An example that might spring to mind is your e-mail inbox.
 By default, my e-mail provider marks unread messages in bold,
 highlights their background, lists the number of unread messages in the page title,
 and will even offer to flash up an intrusive notification each time a message arrives.
-
-This product design is based on the premise that every e-mail that arrives is more 
-important than what you are currently doing.  If you wish to concentrate, then this
-state of regular interruption is undesirable: a different approach is necessary.
+This product design, based on the premise that every e-mail that arrives is more 
+important than what you are currently doing, elicits an unhelpful state of regular interruption.
+A different approach is necessary.
 
 Rather than seeing e-mail as a constant chatter, always clamouring for my attention, 
 I set aside blocks of time -- one in the morning, one in the afternoon -- for responding
 to e-mail.  I don't open my e-mail client except at these times.  (Browser extensions
-make it possible to deny yourself access to certain sites: self-control is a finite resource.)
+make it possible to deny oneself access to certain sites: self-control is a finite resource.)
 
 But what if this means I miss an urgent e-mail, your subconscious may yell.  
 I found it helpful to make a list of people who may require a response within three 
-hours, and to ask these people to telephone me when they had an urgent enquiry.
-(They have never needed to call.)
+hours, and to give these people the freedom to telephone me whenever they have an
+urgent enquiry.  (They have never needed to call.)
+
 
 The instinct that e-mail requires immediate action is deeply rooted.  I have tried
 a few experiments to train out this feeling of stressful hurry.  One approach that
@@ -162,6 +163,11 @@ themselves and required no reply.  This approach also made my e-mail workflow mo
 efficient: instead of exchanging a dozen 'urgent' messages to arrange a meeting,
 I now write "Can we meet in room 7 at 14:30 on Tuesday? If not, could you suggest 
 two or three times on Tues afternoon or Weds morning that would work for you?"
+Incidentally, often the reason for such urgent or inefficient e-mails is that e-mail
+is not the best tool for the job: purpose-built tools such as
+[youcanbook.me](https://youcanbook.me) can eliminate those nagging, unresolved
+e-mail threads that dribble angst into the recesses of the subconscious.
+
 
 The other way that that e-mail exerts a hold on concentration is by giving a feeling 
 of work undone.  Most e-mail clients distinguish between "read" and "unread" e-mails.
@@ -169,14 +175,16 @@ I have configured mine to mark all incoming e-mails as "read".  For me, the impo
 distinction is whether an e-mail needs action from me, or not.  
 When I log on to my e-mails, I first triage every message in my inbox.  If it doesn't
 require action, I archive it immediately -- I can always search for it later if it
-contains important information.  If I can't, or choose not to, act on the message 
-immediately, I decide when I will next need to take action -- perhaps to chase up 
+contains important information.  If I can reply within a minite, I will. 
+But if I can't, or choose not to, act on the message 
+immediately, I decide when I will need to take the next action -- perhaps to chase up 
 a response, or to forward information that I don't yet have -- and use the 'snooze'
 function (implemented in Gmail and Outlook) to remove the message from my inbox 
-until the appointed time.  This done, I can act on any remaining e-mails, leaving
-an empty inbox.  Any I really can't stomach get snoozed until later.  
-This way, when I log off, I no longer have that nagging feeling that my 
-e-mails require further attention.
+until the appointed time.  This done, I can thoughtfully respond to those e-mails
+that I've selected for the present moment until my inbox is empty.
+Any I really can't stomach get snoozed until later.  
+This way, when I log off, I am no longer generating internal guilt about having left
+tasks undone in my inbox.
 
 ## Deep work
 
