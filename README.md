@@ -30,6 +30,33 @@ I really needed to check the news.  The answer to this question usually turns ou
 either "No: you need a proper break, go and make a cup of tea", or "No: you are
 procrastinating because the next task is difficult. You can do it!".
 
+## Pomodoro technique
+
+A more fine-grained (and less digital) approach to allocating time is the
+[Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).
+
+I find this helpful when I have an interminable task on my plate in which progress 
+is slow and intangible -- a recipe for procrastination!
+
+The basic idea -- see the link or [book](https://francescocirillo.com/pages/pomodoro-technique)
+for details -- is to set a kitchen timer for 25 minutes.
+This 25-minute block is devoted to a single task.  When the timer rings, you make a 
+tally mark against the task on a piece of paper that records your progress through the day,
+and take a well-earned five minute break before commencing the next pomodoro, or half
+an hour every four pomodoros.
+**However**, any interruption or deviation from the task causes progress against that 
+pomodoro to be lost.
+
+The tick marks are the essential part -- they give a positive reinforcement to the surprisingly
+difficult task of surviving 25 minutes intact, and give an opportunity to appraise a day --
+where did the time go, and can you beat yesterday's score?
+
+This is more difficult than it might sound -- on my first day with the technique,
+I accumulated four ticks.  But over a few weeks I made my way up to a full work day of 12-15.
+In my view, this process made a profound and, ten years on, persistent improvement on my 
+ability to concentrate -- both in developing my skill at concentration, and spurring me to
+make changes to my working practice that minimised the pressing urge to get distracted after 22 minutes!
+
 ## Interruptions
 
 Internet firms want to sell your attention to advertisers. 
@@ -154,7 +181,3 @@ e-mails require further attention.
 ## Deep work
 
 [Study Hacks](https://www.calnewport.com/blog/2009/11/20/a-study-hacks-primer/)
-
-## Pomodoro technique
-
-[Pomodoro technique](https://francescocirillo.com/pages/pomodoro-technique)
